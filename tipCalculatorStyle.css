@@ -1,0 +1,35 @@
+h1 {
+    margin: 10px 10px 0 10px;
+}
+
+body {
+    font-family: Hind, monospace;
+    background-color: #555555
+}
+
+p {
+    font-size: 20px;
+}
+
+.input {
+    margin-left: 10px;
+    margin-right: 4px;
+    width: 100px;
+    height: 25px;
+
+}
+
+#main {
+    background: #e0ab9b;
+    width: 20%;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 80px;
+}
+
+.center {
+    text-align: center;
+}
